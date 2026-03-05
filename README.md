@@ -1,14 +1,25 @@
+# ChatGPT Interface Clone
 
-<h1>ChatGPT-Clone-Website </h1>
+A simplified ChatGPT-style interface built with HTML, CSS, and JavaScript.
 
-I've independently designed and coded a responsive ChatGPT-Clone-Website, and it's ready to explore!
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-🔸 Project Name: ChatGPT-Clone-Website
+## 🔐 Features
+- Chat-style interface
+- Message display layout
+- Responsive design
 
-🔸 Technologies Used: HTML, CSS, JavaScript
+## 🧠 Architecture & Focus
+- UI design for conversational apps
+- Dynamic message rendering
+- Clean interface structure
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](Screen_ChatGPT-Clone.gif)
+
+## 💡 Future Improvements
+- AI API integration
+- Chat history
